@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881461312574",
+    "project_id": "fir-daffa-dd1e2",
+    "storage_bucket": "fir-daffa-dd1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881461312574:android:fd892976683233e74e256f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_daffa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAgB5Xx2IlzS9i2BFnjXzlweqJOF_F3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881461312574:android:6815fc83d860700c4e256f",
+        "android_client_info": {
+          "package_name": "com.example.firebasedaffa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAgB5Xx2IlzS9i2BFnjXzlweqJOF_F3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
